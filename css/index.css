@@ -1,0 +1,12 @@
+.imgBox {
+	position: relative;
+}
+.hat {
+	background-color: #fff;
+    position: absolute;
+    top: 26px;
+    left: 110px;
+    height:1000px;
+    width: 500px;
+    transform: rotate(-6deg);R
+}

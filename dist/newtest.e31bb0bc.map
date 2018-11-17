@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;eACe,oBAAI;AACfA,EAAAA,OAAO,CAACC,GAAR,CAAY,QAAZ;AAEH","file":"newtest.e31bb0bc.map","sourceRoot":"..","sourcesContent":["\r\nexport default ()=>{\r\n    console.log('aaabbb')\r\n    \r\n}"]}
